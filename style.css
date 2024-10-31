@@ -1,0 +1,8 @@
+.col-cta {
+  background-color: #004477;
+}
+
+.section-land-ack {
+  background: linear-gradient(rgba(11, 232, 63, 0.5), rgba(11, 232, 63, 0.5)), url('images/craft.jpg') no-repeat center center;
+  height:225px;
+}
